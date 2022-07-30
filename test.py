@@ -1,6 +1,11 @@
-cat = "estupido"
+son = input("Wat is your sons name: ")
 
-dog = 'dog'
+truefalse = "false"
 
+if son == "Emiliano":
+	truefalse = "True"
+	print(truefalse)
+else:
+	print(truefalse)
 
-print("-".join(cat))
+#print ("Your sons name is : " + son)
